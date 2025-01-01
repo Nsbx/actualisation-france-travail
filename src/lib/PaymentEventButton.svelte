@@ -7,18 +7,18 @@
   const PAYMENT_EVENT_DESCRIPTION = 'Paiement France Travail';
 
   const PAYMENT_EVENTS = [
-    { title: 'Janvier 2024',   start: [2024, 2, 1] },
-    { title: 'Février 2024',   start: [2024, 3, 1] },
-    { title: 'Mars 2024',      start: [2024, 4, 2] },
-    { title: 'Avril 2024',     start: [2024, 5, 2] },
-    { title: 'Mai 2024',       start: [2024, 6, 3] },
-    { title: 'Juin 2024',      start: [2024, 7, 2] },
-    { title: 'Juillets 2024',  start: [2024, 8, 1] },
-    { title: 'Août 2024',      start: [2024, 9, 2] },
-    { title: 'Septembre 2024', start: [2024, 10, 1] },
-    { title: 'Octobre 2024',   start: [2024, 11, 4] },
-    { title: 'Novembre 2024',  start: [2024, 12, 2] },
-    { title: 'Décembre 2024',  start: [2024, 1, 2] },
+    { title: 'Janvier 2025',   start: [2025, 2, 1] },
+    { title: 'Février 2025',   start: [2025, 3, 3] },
+    { title: 'Mars 2025',      start: [2025, 4, 2] },
+    { title: 'Avril 2025',     start: [2025, 5, 2] },
+    { title: 'Mai 2025',       start: [2025, 6, 2] },
+    { title: 'Juin 2025',      start: [2025, 7, 2] },
+    { title: 'Juillets 2025',  start: [2025, 8, 1] },
+    { title: 'Août 2025',      start: [2025, 9, 2] },
+    { title: 'Septembre 2025', start: [2025, 10, 1] },
+    { title: 'Octobre 2025',   start: [2025, 11, 3] },
+    { title: 'Novembre 2025',  start: [2025, 12, 2] },
+    { title: 'Décembre 2025',  start: [2025, 1, 2] },
   ]
 
   let refreshEvents = [];
