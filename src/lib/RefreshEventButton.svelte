@@ -6,18 +6,18 @@
   const REFRESH_EVENT_TITLE = 'Actualisation France Travail';
 
   const REFRESH_EVENTS = [
-    { title: 'Janvier 2024',   start: [2024, 1, 28],  end: [2024, 2, 1] },
-    { title: 'Février 2024',   start: [2024, 2, 28],  end: [2024, 3, 1] },
-    { title: 'Mars 2024',      start: [2024, 3, 28],  end: [2024, 4, 2] },
-    { title: 'Avril 2024',     start: [2024, 4, 28],  end: [2024, 5, 2] },
-    { title: 'Mai 2024',       start: [2024, 5, 28],  end: [2024, 6, 3] },
-    { title: 'Juin 2024',      start: [2024, 6, 28],  end: [2024, 7, 2] },
-    { title: 'Juillets 2024',  start: [2024, 7, 28],  end: [2024, 8, 1] },
-    { title: 'Août 2024',      start: [2024, 8, 28],  end: [2024, 9, 2] },
-    { title: 'Septembre 2024', start: [2024, 9, 28],  end: [2024, 10, 1] },
-    { title: 'Octobre 2024',   start: [2024, 10, 28], end: [2024, 11, 4] },
-    { title: 'Novembre 2024',  start: [2024, 11, 28], end: [2024, 12, 2] },
-    { title: 'Décembre 2024',  start: [2024, 12, 28], end: [2025, 1, 2] },
+    { title: 'Janvier 2025',   start: [2025, 1, 28],  end: [2025, 2, 15] },
+    { title: 'Février 2025',   start: [2025, 2, 26],  end: [2025, 3, 15] },
+    { title: 'Mars 2025',      start: [2025, 3, 28],  end: [2025, 4, 15] },
+    { title: 'Avril 2025',     start: [2025, 4, 28],  end: [2025, 5, 15] },
+    { title: 'Mai 2025',       start: [2025, 5, 28],  end: [2025, 6, 15] },
+    { title: 'Juin 2025',      start: [2025, 6, 28],  end: [2025, 7, 15] },
+    { title: 'Juillets 2025',  start: [2025, 7, 28],  end: [2025, 8, 15] },
+    { title: 'Août 2025',      start: [2025, 8, 28],  end: [2025, 9, 15] },
+    { title: 'Septembre 2025', start: [2025, 9, 28],  end: [2025, 10, 15] },
+    { title: 'Octobre 2025',   start: [2025, 10, 28], end: [2025, 11, 15] },
+    { title: 'Novembre 2025',  start: [2025, 11, 28], end: [2025, 12, 15] },
+    { title: 'Décembre 2025',  start: [2025, 12, 28], end: [2026, 1, 15] },
   ]
 
   let refreshEvents = [];
